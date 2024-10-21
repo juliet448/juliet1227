@@ -1,4 +1,4 @@
-# LITA_STUDENT_DOCUMENTATION_PROJECT
+# LITA_DATA_DOCUMENTATION_PROJECT
 
 ### Project Tittle: Analysis Of Market Purchase Data
 

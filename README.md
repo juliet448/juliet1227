@@ -7,3 +7,11 @@ This Data Analysis aims to explain the insight into excel functions and its perf
 
 ### Data Sources
 The primary source of Data used here is Data used is classwork activities, and this data source can be downloaded online from Kaggle.com which is an open source and other repository site.
+
+### Tools Used
+- Microsoft excel  [Download Here](https://www.microsoft.com)
+   1. For Data Cleaning
+   2. Analysis
+   3. For Data visualization
+- SQL- Structured Query Language for Quering Data
+-  GitHub for Portfolio Building 

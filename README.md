@@ -4,11 +4,20 @@
 
 ### Project Overview
 ---
-This Data Analysis aims to explain the insight into excel functions and its perfomance of excel Function summation, average,maximun, minimun., countif or counta, equations, proper and form fill during the class activities,text extractions, text cleaning, pivot tables and personal practices. With the use of excel functions i was able to analyse various parameters in data received and also able to gather enough insighst to make a reasonable decisions which helps to explain convincing stories around data from the insight gotten and to know the best result for our data. as
+I am currently undergoing data Analysis training with the Incubator Hub, and actively engaged in analysing Data to gain useful insights of customer purchasing behaviour with the use of Microsoft excel and pivot table fields/bucket, by converting them into datasets, e.g line of Business, Market,stores and region e.t.c. The aim is to understand prefrences and purchasing pattern to inform marketing strategies and improve sales.  I understand the useful insights of Basic excel functions, aritthmetic and calculations Sum=(D8:D27)/=IFERROR(FORMULATEXT(111)),""), which could be found in daatabase uploadeded, average,maximun, minimun., logical and conditionals, countif, counta, switch(A1:,"Value1","Result1", "value2","result2"), text and string, concatenate, proper &lower case, Date and time, and form fill during the class activities,text extractions, text cleaning to eliminate unnecessary space in entering data in excel,and the use of Mid functions as shown in **table** pivot tables and personal practices. turning datas to profitable goals, gathering the informations from  Datasets like sales, summary of line of Business and Unit sold, Region and Revenue,  Stores and Revenue, and been able to analyse market sales, by analysis the highest and lowest which is shown in tabular formate. **Store by Revenue as the Top 10 Stores** in the region  while **store by unit sold is the lowest sales** of market. The above mentioned  data gathered and analysed, i was able make to a reasonable decision which helps to explain convincing stories around data from the insight gotten and to know the best possible result for our data output ** (in the Market)** and lowest areas for improvement.
 
 ### Data Sources
 ---
-The primary source of Data used here is Data used is classwork activities, and this data source can be downloaded online from Kaggle.com which is an open source and other repository site.
+This Data is a primarily sourced data from  LITA Incubator Hub **Dataset  excel** spreadsheet which contains e.g Revenue, Region, Market, Purchase Date, product category, product Name, quantity, price, Store, Transaction Date, Day category, Text extractions and text cleaning, Pivot table which can be found in excel function **shown in table**. Thirdly, datasets gotten from region and revenue, Stores, market, model, line of Business. e.t.c.  
+
+### Project Objective
+---
+### Project objectives are outlined in the following ways:
+ - Extract text and process data
+ - Clean and preprocess data
+ - Convert Data types
+ - To assertain a profitable market
+ - To analyse data and acheive top 5 sales store.
 
 ### Tools Used
 ---

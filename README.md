@@ -1,6 +1,6 @@
-# LITA_STUDENT_DOCUMENTATION
+# LITA_STUDENT_DOCUMENTATION_PROJECT
 
-### Project Tittle: Basic Excel Functions
+### Project Tittle: Analysis Of Market Purchase Data
 
 ### Project Overview
 ---
@@ -13,11 +13,11 @@ This Data is a primarily sourced data from  LITA Incubator Hub **Dataset  excel*
 ### Project Objective
 ---
 ### Project objectives are outlined in the following ways:
- - Extract text and process data
+ - text extraction and data processing 
  - Clean and preprocess data
- - Convert Data types
+ - Convert Data types e.g Date to Datetime
  - To assertain a profitable market
- - To analyse data and acheive top 5 sales store.
+ - To analyse data and acheive top 5 sales store in the market.
 
 ### Tools Used
 ---

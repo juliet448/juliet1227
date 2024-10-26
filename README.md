@@ -1,14 +1,26 @@
-# LITA_DATA_DOCUMENTATION_PROJECT
+# LITA_MARKET_DATA_ANALYSIS_PROJECT
 
-### Project Tittle: Analysis Of Market Purchase Data
+### Project Tittle: Market Data Analysis 
 
 ### Project Overview
 ---
-I am currently undergoing data Analysis training with the Incubator Hub, and actively engaged in analysing Data to gain useful insights of customer purchasing behaviour with the use of Microsoft excel and pivot table fields/bucket, by converting them into datasets, e.g line of Business, Market,stores and region e.t.c. The aim is to understand prefrences and purchasing pattern to inform marketing strategies and improve sales.  I understand the useful insights of Basic excel functions, aritthmetic and calculations Sum=(D8:D27)/=IFERROR(FORMULATEXT(111)),""), which could be found in daatabase uploadeded, average,maximun, minimun., logical and conditionals, countif, counta, switch(A1:,"Value1","Result1", "value2","result2"), text and string, concatenate, proper &lower case, Date and time, and form fill during the class activities,text extractions, text cleaning to eliminate unnecessary space in entering data in excel,and the use of Mid functions as shown in **table** pivot tables and personal practices. turning datas to profitable goals, gathering the informations from  Datasets like sales, summary of line of Business and Unit sold, Region and Revenue,  Stores and Revenue, and been able to analyse market sales, by analysis the highest and lowest which is shown in tabular formate. **Store by Revenue as the Top 10 Stores** in the region  while **store by unit sold is the lowest sales** of market. The above mentioned  data gathered and analysed, i was able make to a reasonable decision which helps to explain convincing stories around data from the insight gotten and to know the best possible result for our data output ** (in the Market)** and lowest areas for improvement.
+I am currently undergoing data Analysis training with the Incubator Hub, and actively engaged in analysing Data to gain useful insights inwhich this experience has been significant in refining my skills in data analysis. The aim of the this market analysis is to understand purchasing behaviour and the trends of markets from data gotten from Revenue, Line of Business,region and store through market performance and analyzing key parameter e.g Store by Revenue as the top 10 store in the market. 
 
 ### Data Sources
 ---
-This Data is a primarily sourced data from  LITA Incubator Hub **Dataset  excel** spreadsheet which contains e.g Revenue, Region, Market, Purchase Date, product category, product Name, quantity, price, Store, Transaction Date, Day category, Text extractions and text cleaning, Pivot table which can be found in excel function **shown in table**. Thirdly, datasets gotten from region and revenue, Stores, market, model, line of Business. e.t.c.  
+This Data is a primarily sourced data from  dataset  columns such as: 
+
+ 1. Revenue:The amount of goods and service sold on the market
+ 2. Region: Here the environment where the store is been operated from. 
+ 3. Market: Here is the particular division within the zone or state 
+ 4. Purchase Date: This is the prticular date on which sales where made
+ 5. Product category: The names of particular products in different store or region 
+ 6. Product Name: The name of products iqn the purchaseed in the store 
+ 7. Transaction Date: The particular date product was sold
+ 8. Day category: The day in the week the product was poe,g locatiom model
+ 9. Line of Business( LOB): The particular set of product or services
+ 11. Model: The strategy at which companies use to target the market..
+ 12. Unite sold: The quantity a particulat bought in the  store
 
 ### Project Objective
 ---

@@ -1,4 +1,4 @@
-# LITA_MARKET_DATA_ANALYSIS_PROJECT
+![Screenshot 2024-10-27 215010](https://github.com/user-attachments/assets/6cdc053f-09f1-4b5c-b803-78f708c69df5)# LITA_MARKET_DATA_ANALYSIS_PROJECT
 
 ### Project Tittle: Market Data Analysis 
 
@@ -46,13 +46,11 @@ These data collectively provide a complete view indicating sales perfomance, mar
 
 ### Tools Used
 ---
-- Microsoft excel  [Download Here](https://www.microsoft.com)
-   1. For Data Cleaning
-   2. Analysis
-   3. For Data visualization
+### Data Analysis
+   1. Data Analysis: This data was analysed using microsoft excel for text extraction, tex cleaning tables inother to organize, summarisze, and filter the data for easier interpretation based on market behaviour, store, unit sold and category.
+   2. Formulas Functions: Here estimate perfomance metrics and streamline processses e.g sorting and filtering. 
+   3. For Data visualizations: Here Bar Charts were created in Excel to visually represent trends, comparison and key insights 
 
-- SQL- Structured Query Language for Quering Data
--  GitHub for Portfolio Building
 
   ### Data Cleaning and Preparations
   ---
@@ -64,19 +62,33 @@ These data collectively provide a complete view indicating sales perfomance, mar
 ### Exploratory Data Analysis 
 ---
 EDA involved the explorating to the Data answer some questions about the Data such as;
-- What is the sales trend
-- Which product are top sellers
-- what are the top 10 products on computer parts sales?
-
-### Data Analysis
----
-This is where learnt some basic lines of code or queries or even some of the DAX expressions used during my analysis with the Incubator Hub;
+- What is the highest sales for each region?
+- Which store has the lowest unit purchase?
+- what are the growth model for peak sales?![Screenshot 2024-10-27 215010](https://github.com/user-attachments/assets/a8533639-09fd-4d6d-a9d1-fe96ac3728f1)
 
 
+### Data Visaulization
 
-```SQL
-select * from Payment
-where Payment_Method = TRANSFER
-```
+ 1. MARKET BY REVENUE
+ 
+ ### PIVOT TABLE:
+
+ 
+
+ 
+![Screenshot 2024-10-27 215010](https://github.com/user-attachments/assets/d3c2da9e-c616-4348-8ad5-006f9c4b2452)
+
+- FILTER CHART FOR THE YEAR 2014
+
+- FILTER CHART FOR THE YEAR 2015
+
+### DEDUCTION
+
+
+### General Revenue GROWTH
+The graph above showsthat there is a noticeable reduction in revenue across most region from 2015.
+
+
+
 
 

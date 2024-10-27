@@ -10,26 +10,39 @@ I am currently undergoing data Analysis training with the Incubator Hub, and act
 ---
 This Data is a primarily sourced data from  dataset  columns such as: 
 
- 1. Revenue:The amount of goods and service sold on the market
+ 1. Revenue:The total amount of goods and service generated on the market sales
  2. Region: Here the environment where the store is been operated from. 
  3. Market: Here is the particular division within the zone or state 
- 4. Purchase Date: This is the prticular date on which sales where made
+ 4. Purchase Date: This is the particular date on which sales where made.
  5. Product category: The names of particular products in different store or region 
  6. Product Name: The name of products iqn the purchaseed in the store 
  7. Transaction Date: The particular date product was sold
- 8. Day category: The day in the week the product was poe,g locatiom model
- 9. Line of Business( LOB): The particular set of product or services
- 11. Model: The strategy at which companies use to target the market..
- 12. Unite sold: The quantity a particulat bought in the  store
+ 8. Fiscal Period: The timeframe for financial reporting in segment e.g    monthly,and annually, quarterly, to eveluate performance.
+ 9. Category: This specifies product based on shared features (e.g electronics, ensemble)
+ 10. Line of Business( LOB): The particular set of product or services of which sales were done.
+ 11. Model: The type of product a company offers to be sold in the market
+ 12. Unite sold: The quantity of a particular product sold in the  store for a given time
 
-### Project Objective
+These data collectively provide a complete view indicating sales perfomance, market trends, customer purchasing behaviour to influence insightful decision-making.
+
+### Project Objectives
 ---
-### Project objectives are outlined in the following ways:
- - text extraction and data processing 
- - Clean and preprocess data
- - Convert Data types e.g Date to Datetime
- - To assertain a profitable market
- - To analyse data and acheive top 5 sales store in the market.
+### The project was outlined to analyse market goals such as:
+ - Data collection: Data detailed gotten from revenue, store, sales from different  market and locations
+ - Store by revenue: To assertain when there is a decrease in sales and provide strategic recommendations based on analysis for improvement
+- **Market by region: To assertain a profitable market by analysing data and acheive top 5 sales store in the market.**
+ - Makrket by revenue: Analyzing the trends and pattern of sales across different region to identify the highest sales in geographical area 
+ - Performance Metrix: To monitor and analyse the number of market sales, profit margin in each location to establish clear objectives.
+
+
+### KEY METRICS
+---
+- Revenue: Sum of revenue column, generated from different stores and region
+- United Sold: Sum of unit sold across various transactions
+- Average Revenue: Calculated total revenue/units sold for each region to understand customer purchasing behaviour to measure revenue efficiency.
+ 
+
+### How to 
 
 ### Tools Used
 ---

@@ -1,4 +1,4 @@
-![Screenshot 2024-10-27 215010](https://github.com/user-attachments/assets/6cdc053f-09f1-4b5c-b803-78f708c69df5)# LITA_MARKET_DATA_ANALYSIS_PROJECT
+### LITA_MARKET_DATA_ANALYSIS_PROJECT
 
 ### Project Tittle: Market Data Analysis 
 
@@ -42,11 +42,9 @@ These data collectively provide a complete view indicating sales perfomance, mar
 - Average Revenue: Calculated total revenue/units sold for each region to understand customer purchasing behaviour to measure revenue efficiency.
  
 
-### How to 
-
 ### Tools Used
 ---
-### Data Analysis
+### Microsoft Excel
    1. Data Analysis: This data was analysed using microsoft excel for text extraction, tex cleaning tables inother to organize, summarisze, and filter the data for easier interpretation based on market behaviour, store, unit sold and category.
    2. Formulas Functions: Here estimate perfomance metrics and streamline processses e.g sorting and filtering. 
    3. For Data visualizations: Here Bar Charts were created in Excel to visually represent trends, comparison and key insights 
@@ -87,6 +85,30 @@ EDA involved the explorating to the Data answer some questions about the Data su
 
 ### General Revenue GROWTH
 The graph above showsthat there is a noticeable reduction in revenue across most region from 2015.
+
+- Factors driving growth: Quality product, availability of product in the market.
+- Impact on market: Increased sales and profitablity just like that of Ekiti and other markets involved,the Top 5 market.
+
+
+### Challenges and Constraints
+---
+- Barriers to entry: Lack of man power, Technology, distance and  high cost of transportation
+- Market limitations: Technology, Distance,  transportation and inflation which leading to unavailability of product to our clients.
+
+### Recommendations
+---
+- Strategic investments: Man power,Technology, Online sales, discounting of goods and services. 
+- Market expansion: internet, Road side marketing, and rural areas
+- Operational improvements: Advertising, availability of goods, especially in locations where products are in high demand.
+
+### Conclusion
+
+The Ekiti market is expected to grow at by 40% of  growth rate driven by the recommendations above in the next quarter,  with the top 5 market we have series of opportunities those reveneue in top 5 and 10 locations.
+
+
+
+
+
 
 
 
